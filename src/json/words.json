@@ -1,0 +1,252 @@
+[
+    {
+        "value": "Lionel Messi",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Cristiano Ronaldo",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Diego Maradona",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Zinédine Zidane",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Johan Cruijff",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Dennis Bergkamp",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Marco van Baster",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Ronald Koeman",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Wesley Sneijder",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Guus Hiddink",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Louis van Gaal",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Arjan Robben",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Dirk Kuijt",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Giovanni van Bronckhorst",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Patrick Kluivert",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Ruud van Nistelrooij",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Frank de Boer",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Edwin van de Sar",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "Robin van Persie",
+        "category": "Soccer",
+        "difficulty": 1
+    },
+    {
+        "value": "ADO Den Haag",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Ajax",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "AZ",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Excelsior",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Feyenoord",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "FC Groningen",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "SC Heerenveen",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "NEC",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "PSV",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Sparta Rotterdam",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "FC Twente",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Willem II",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "NAC Breda",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Schalke 04",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Southampton",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Everton",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Inter Milan",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Tottenham Hotspur",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Atletico Madrid",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Borussia Dortmund",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Manchester City",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Manchester United",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Liverpool",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Juventus",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Paris Saint-Germain",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Arsenal",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "FC Bayern München",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Chelsea",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Manchester United",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "FC Barcelona",
+        "category": "Soccer team",
+        "difficulty": 1
+    },
+    {
+        "value": "Real Madrid",
+        "category": "Soccer team",
+        "difficulty": 1
+    }
+]
