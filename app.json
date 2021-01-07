@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "30-seconds-card-app",
+    "name": "30 Seconds - Card Generator",
     "slug": "30-seconds-card-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,7 +22,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./src/assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#0E1C36"
       }
     },
     "web": {
