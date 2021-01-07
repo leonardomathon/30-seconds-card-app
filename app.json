@@ -17,13 +17,17 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.leonardomathon.30_second_card_app",
+      "buildNumber": "1.0.0"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./src/assets/adaptive-icon.png",
         "backgroundColor": "#0E1C36"
-      }
+      },
+      "package": "com.leonardomathon.30_seconds_card_app",
+      "versionCode:": 1
     },
     "web": {
       "favicon": "./src/assets/favicon.png"
