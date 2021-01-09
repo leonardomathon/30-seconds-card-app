@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect } from "react";
 import { StyleSheet, Button, View, SafeAreaView, Text, Alert } from 'react-native';
 
 import words from './json/words.json';
@@ -8,25 +8,47 @@ const Separator = () => (
 );
 
 const App = () => {
+  // Copy of the JSON data
+  let data = words
+
+  let dataLength = Object.keys(data).length;
+
+  // Array containing the indices of the words that already have been used
+  let doneWordIndices = [];
+
   function generateCard() {
-    let dataLength = Object.keys(words).length;
+
+    // Generate 5 random words from the data
     let cardItems = [];
     for (let i = 0; i < 5; i++) {
       cardItems.push(pickRandom(dataLength));
     }
     
+    // Prepare the output
     var output = '';
     cardItems.map((item) => {
       output += item + '\n';
     })
 
+    // Send output to the user via alert
     Alert.alert("Kaartje", output, [{text: 'Nog een kaartje', onPress: () => generateCard()}, {text: 'Sluiten', onPress: () => console.log("Close")}]);
 
   }
   
   function pickRandom(dataLength) {
+    // Pick a random number, check if it has already been used
     let randomNumber = Math.floor(Math.random() * dataLength);
-    return words[randomNumber].value;
+    while (doneWordIndices.includes(randomNumber)) {
+      randomNumber = Math.floor(Math.random() * dataLength);
+    }
+
+    // Add the new random number the indices list
+    doneWordIndices.push(randomNumber);
+
+    // Find the corresponding word and delete it from the data
+    let word = data[randomNumber];
+    delete data[randomNumber];
+    return word.value;
   }
 
   return(
